@@ -1,5 +1,3 @@
-
-
 Artemis Financial is a financial services company which would like to modernize their 
 operations.  They reached out in need of a series of security-related services such as 
 the identification of vulnerabilities in their web-based software application with 
